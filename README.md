@@ -1,4 +1,4 @@
-# User User Collaborative Filtering
+# User-User Collaborative Filtering
 
 The code aims to provide movie recommendations based on user-user similarities.
 
